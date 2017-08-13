@@ -86,4 +86,5 @@ button {
 .required > label:after{
   content:"*";
   color:red;
+  font-weight:bold;
 }
